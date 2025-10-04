@@ -1,0 +1,38 @@
+# Generated data files (too large for git)
+*.jsonl
+!leaderboard.jsonl
+repos_*.jsonl
+agentic_repos*.jsonl
+candidates_raw.jsonl
+hydrated.jsonl
+seed_repos.jsonl
+agentic_seed.jsonl
+
+# Temporary files
+*.txt
+!requirements.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# Claude Code
+.claude/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log

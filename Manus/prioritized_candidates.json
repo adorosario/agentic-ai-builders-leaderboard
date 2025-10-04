@@ -1,0 +1,272 @@
+{
+  "tier1_pursue_open": [
+    {
+      "username": "Prat011",
+      "expertise": "Prathit demonstrates exceptional technical expertise with a strong and consistent focus on AI/ML, agentic systems, LLMs, and developer tools. He is proficient in TypeScript and Python. His projects highlight a deep understanding of AI agent development (e.g., Agent Flow, ComposioHQ/composio), LLM integration and management (Google Gemini, Ollama, Grok 4, Qwen, Llama 4 in free-cluely), APIs and integrations for connecting AI systems with external applications, and developer tools (mcp-shell, Grok CLI). He also has experience with advanced concepts like Fully Homomorphic Encryption and RAG Projects.",
+      "relevance": "Prathit's skills and experience are exceptionally relevant to CustomGPT.ai. His proven track record in building and contributing to AI agents for various use cases, experience with multiple LLMs (Gemini, Grok, Llama, Qwen), and understanding of their deployment (local vs. cloud) are invaluable. His expertise in API and integration, as demonstrated by his work on Composio, would directly benefit CustomGPT.ai. Furthermore, his focus on developer tooling and familiarity with MCP interfaces align perfectly with CustomGPT.ai's mission of building custom GPT solutions and AI agents.",
+      "score": 9.5,
+      "open_to_work": true,
+      "recommendation": "PURSUE IMMEDIATELY",
+      "strengths": "1. Deep Expertise in AI Agents & LLMs: Proven ability to build, integrate, and manage diverse AI agents and large language models across various platforms and use cases.\n2. Strong Open-Source Contributor & Project Maintainer: Demonstrates consistent, high-quality contributions to significant open-source projects, indicating excellent technical skills, collaboration, and project ownership.\n3. Focus on Developer Experience & Practical Applications: Creates effective developer tools and builds AI solutions that address real-world problems, aligning perfectly with CustomGPT.ai's product-centric approach."
+    },
+    {
+      "username": "Soulter",
+      "expertise": "Soulter possesses strong technical expertise in Python, Javascript, and Golang, with a primary focus on Large Language Models (LLMs), LLM-based Agents, and API development. Their flagship project, AstrBot, is a comprehensive Agentic chatbot platform showcasing proficiency in integrating diverse LLM services (OpenAI, Anthropic, Google Gemini, DeepSeek, Ollama, OneAPI), handling multimodal capabilities, tool calling, and implementing the Model Context Protocol (MCP). This project also demonstrates strong architectural design, extensive messaging platform integrations, and a robust plugin system. Additionally, their work on hugging-chat-api highlights expertise in developing Python APIs for LLM interaction, including features like basic chat, assistant capabilities (image generation), web search, context memorization, and LLM switching. Soulter's GitHub profile shows a high level of activity with 5,120 contributions in the last year, indicating consistent and high-quality work.",
+      "relevance": "Soulter's expertise in LLM-based agents, tool calling, and integration with various LLM providers (OpenAI, Gemini, etc.) directly aligns with CustomGPT.ai's business. Their work on the Model Context Protocol (MCP) server within AstrBot is particularly relevant. The ability to develop comprehensive chatbot platforms and APIs for LLM interaction would be invaluable for CustomGPT.ai's core business, especially their focus on extensibility and multimodal AI applications.",
+      "score": 9.0,
+      "open_to_work": true,
+      "recommendation": "PURSUE IMMEDIATELY",
+      "strengths": "1. Deep expertise in LLM-based agents, tool calling, and multimodal AI applications. 2. Proven ability to develop and maintain popular, high-quality open-source projects with strong community engagement. 3. Strong API development and integration skills, particularly with LLM platforms."
+    },
+    {
+      "username": "krrishdholakia",
+      "expertise": "Krish Dholakia is a highly skilled product engineer with a strong focus on AI/ML and agentic systems. His primary project, LiteLLM, is a Python SDK and proxy server designed to call over 100 LLM APIs in an OpenAI-compatible format, including major platforms like Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Groq, and Replicate. This project has garnered significant attention with 29.5k stars and 4.3k forks, demonstrating his ability to build impactful and widely adopted developer tools in the LLM space. He also developed 'betterprompt,' a test suite for LLM prompts, indicating an understanding of prompt engineering and quality assurance for AI models. His contributions are primarily in Python, and he has a strong track record of recent activity, including numerous commits and pull requests in the LiteLLM repository.",
+      "relevance": "Krish Dholakia's work on LiteLLM, an LLM Gateway supporting over 100 LLM APIs in OpenAI format, is directly and highly relevant to CustomGPT.ai's business of building custom GPT solutions and AI agents. His expertise in integrating various LLMs and managing API calls is a core competency for CustomGPT.ai. The 'betterprompt' project also shows an understanding of LLM prompt engineering and testing, which is valuable.",
+      "score": 9.0,
+      "open_to_work": true,
+      "recommendation": "PURSUE IMMEDIATELY",
+      "strengths": "1. Deep expertise in LLM integration and API management (LiteLLM).\n2. Proven leadership and entrepreneurial experience as Co-Founder & CEO of LiteLLM.\n3. Strong technical skills in Python and a focus on AI/ML and agentic systems."
+    },
+    {
+      "username": "ranst91",
+      "expertise": "Ran Shemtov demonstrates strong technical expertise as a Senior Full Stack Software Engineer with a significant focus on AI/ML, agentic systems, LLMs, and developer tools. His primary contributions are to projects like CopilotKit, a TypeScript-based framework for AI Copilots, chatbots, and agents, and Pezzo, an open-source LLMOps platform. He has made 925 contributions in the last year, including recent pull requests and reviews in CopilotKit, indicating active and high-quality work. His LinkedIn profile also highlights his role as a Senior Founding Engineer at CopilotKit, further emphasizing his deep involvement in AI-driven development.",
+      "relevance": "Ran Shemtov's expertise is highly relevant to CustomGPT.ai. His significant contributions to CopilotKit, a framework for building AI Copilots, chatbots, and agents, directly align with CustomGPT.ai's focus on custom GPT solutions and AI agents. His involvement with Pezzo, an LLMOps platform, also demonstrates experience in managing and streamlining LLM development, which is crucial for CustomGPT.ai's operations. His general interest in AI/ML and agentic systems, as evidenced by his contributions to 'awesome-ai-repositories' and his LinkedIn posts, further solidifies his relevance.",
+      "score": 9.0,
+      "open_to_work": true,
+      "recommendation": "PURSUE IMMEDIATELY",
+      "strengths": "1. Deep expertise in AI agent development and LLM integration (CopilotKit, Pezzo). 2. Strong full-stack engineering background with a focus on developer tools. 3. Active contributor to open-source AI projects and thought leader in the AI space."
+    },
+    {
+      "username": "Boburmirzo",
+      "expertise": "Bobur Umurzokov is a seasoned professional with over 10 years in IT, specializing in software and data engineering. He is a Developer Advocate and a Microsoft MVP for Azure AI services, demonstrating strong capabilities in cloud-based AI solutions. His technical focus includes artificial intelligence, machine learning, and agentic systems. He is actively involved in the GlassFlow project (stream processing framework in Python) and has contributed to numerous open-source projects. His notable projects include an AI-powered Python API using ChatGPT and LLM for real-time sales, an open-source memory engine for LLMs and AI Agents ('GibsonAI/memori'), and contributions to agentic AI frameworks like 'autogen' and 'agno'. He also has experience with AI agent monitoring, LLM cost tracking, and benchmarking ('agentops'), and has developed practical AI agents for personalized recommendations and competitor intelligence. His work frequently involves Python, Jupyter Notebooks, and Azure OpenAI services.",
+      "relevance": "Bobur Umurzokov's expertise is highly relevant to CustomGPT.ai. His extensive experience with LLMs, AI agents, multi-agent systems, and API integration directly aligns with CustomGPT.ai's core business of building custom GPT solutions and AI agents. His work on projects like 'GibsonAI/memori' (Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems), 'autogen' (programming framework for agentic AI), and various AI agent implementations (travel planner, competitor intelligence) demonstrates a deep understanding and practical application of technologies central to CustomGPT.ai's mission. His Microsoft MVP status for Azure AI services also indicates proficiency in cloud-based AI deployments, which is valuable for scalable solutions.",
+      "score": 9.0,
+      "open_to_work": true,
+      "recommendation": "PURSUE IMMEDIATELY",
+      "strengths": "1. Deep Expertise in AI/LLMs/Agents: Proven track record with multi-agent systems, LLMs, and API integration.\n2. Developer Advocacy and Community Engagement: Strong communication skills and ability to foster developer adoption, crucial for product growth.\n3. Cloud AI (Azure) Expertise: Proficient in deploying and managing AI solutions on cloud platforms, ensuring scalability and reliability."
+    },
+    {
+      "username": "maxkorp",
+      "expertise": "Max Korp possesses extensive technical expertise, primarily in JavaScript, TypeScript, and Node.js environments, with a strong focus on developer tools and software architecture. His role as a co-founder of GitKraken and an architect at Moov.co highlights his capability in building and scaling complex software solutions. His contributions to `nodegit/nodegit` (native Node bindings to Git) demonstrate his proficiency in low-level system integrations and open-source project leadership. Recent work on `CopilotKit/CopilotKit` and `CopilotKit/with-langgraph-python` indicates a current and active engagement with AI agents, LLMs, and API development, specifically involving 'A2A middleware' and Python-based AI frameworks. He also has experience with GraphQL APIs (PostGraphile), various functional programming languages (Reason, OCaml), and systems programming (Rust, Go, C++), showcasing a versatile skill set.",
+      "relevance": "Max Korp's background as a co-founder of GitKraken and an architect at Moov.co demonstrates significant experience in developer tools and software architecture. His recent contributions to CopilotKit, particularly involving 'A2A middleware' and 'langgraph-python', directly align with CustomGPT.ai's focus on AI agents, LLMs, and API integrations. His work on GraphQL APIs (PostGraphile) and various JavaScript/TypeScript projects further enhances his relevance, as these technologies are crucial for building robust AI solutions and developer-facing platforms. While his historical work spans a broad range of languages and domains, his recent activity clearly indicates a strong and current engagement with AI-related development, making him highly relevant to CustomGPT.ai's mission.",
+      "score": 9.0,
+      "open_to_work": true,
+      "recommendation": "PURSUE IMMEDIATELY",
+      "strengths": "1. Strong leadership and entrepreneurial experience (Cofounder of GitKraken, Architect at Moov.co).\n2. Deep technical expertise in developer tools, Node.js, JavaScript, TypeScript, and API development.\n3. Recent and direct involvement in AI/LLM/agentic systems development through contributions to CopilotKit and related projects."
+    },
+    {
+      "username": "EricGustin",
+      "expertise": "Eric Gustin is a Founding Engineer at Arcade.dev, where he focuses on AI Tool calling, LLMs, and AI agents. His technical stack includes Python, TypeScript, Ruby, and Go. Previously, he worked as a Software Engineer at Microsoft (Azure Networking) and an AI/ML Engineer at Hewlett Packard Enterprise (HPC). His GitHub profile shows significant contributions to ArcadeAI projects, including the Arcade Tool Development Kit (TDK), and a strong emphasis on LLM and agent-related topics. He has 1,835 contributions in the last year, with a good mix of commits, code reviews, and pull requests.",
+      "relevance": "Eric Gustin's current role as Founding Engineer at Arcade.dev, focused on 'AI Tool calling' and building AI agents with LLMs, is highly relevant to CustomGPT.ai's business. His previous experience as an AI/ML Engineer at Hewlett Packard Enterprise further strengthens his relevance. His GitHub activity shows a strong focus on LLMs, agents, and related developer tools, which directly aligns with CustomGPT.ai's core offerings.",
+      "score": 9.0,
+      "open_to_work": true,
+      "recommendation": "PURSUE IMMEDIATELY",
+      "strengths": "1. Deep expertise in AI agents, LLMs, and AI tool-calling platforms. 2. Strong background in software engineering, including cloud and AI/ML. 3. Active contributor to open-source projects related to AI/ML and developer tools."
+    },
+    {
+      "username": "naaa760",
+      "expertise": "Neha Prasad is a Software Engineer specializing in Frontend Development with Next.js and TypeScript, with over 3 years of experience. Her technical stack includes React, Next.js, TypeScript, Node.js, Express, Python, PostgreSQL, MongoDB, Tailwind CSS, Zustand, and System Design. She is comfortable with AWS, Microservices, RESTful APIs, Shadcn UI, LLM, Firebase, and Prisma, and familiar with Docker, FastAPI, PyTorch, and Cypress. Her project focus includes AI/ML, agentic systems, and LLMs, as evidenced by projects like 'interview-platform-with-a-real-time-ai-voice-agent', 'heariffy' (audio classification), and 'eonlogic' (AI Website Builder). She has made significant open-source contributions to projects such as PostHog, google-gemini/gemini-cli, Mintplex-Labs/anything-llm, and LlamaIndexTS, often involving LLM features, bug fixes, and new feature implementations. Her recent contributions show consistent activity and engagement in the open-source community.",
+      "relevance": "Neha Prasad's skills are highly relevant to CustomGPT.ai. Her expertise in LLMs, AI/ML, and agentic systems, demonstrated through projects like 'interview-platform-with-a-real-time-ai-voice-agent' and contributions to 'google-gemini/gemini-cli' and 'Mintplex-Labs/anything-llm', directly aligns with CustomGPT.ai's focus on custom GPT solutions and AI agents. Her full-stack development skills, particularly with Next.js and TypeScript, are valuable for building robust AI-powered applications and developer tools.",
+      "score": 9.0,
+      "open_to_work": true,
+      "recommendation": "PURSUE IMMEDIATELY",
+      "strengths": "1. Strong expertise in AI/ML, LLMs, and agentic systems with practical project experience. 2. Proficient full-stack developer with a focus on modern web technologies (Next.js, TypeScript). 3. Active open-source contributor with a track record of merged PRs in relevant projects, demonstrating collaboration and code quality."
+    },
+    {
+      "username": "haxzie",
+      "expertise": "Musthaq Ahamad is a Product Designer and Engineer with a strong focus on AI, product development, and web technologies. He is currently a Senior Software Engineer at ComposioHQ, where he designs and builds AI Agents and workflows. His technical stack includes JavaScript, Vue, TypeScript, and Python. Notable projects include 'Clinic' (a minimal API Client), 'Sequel' (an AI Data analyst and text-to-sql tool), 'Apico' (a NoCode API proxy and development tool), 'PGLite Editor' (an in-browser PostgreSQL editor), and 'Krata' (an open-source GeoJSON editor). He has significant experience in contributing to open-source projects and has a history of building developer tools.",
+      "relevance": "Musthaq Ahamad's current role at ComposioHQ involves designing and building AI Agents and workflows, which directly aligns with CustomGPT.ai's business of building custom GPT solutions and AI agents. His projects like 'Sequel' (AI Data analyst and text-to-sql tool) and 'Apico' (NoCode API proxy) demonstrate expertise in AI, data analysis, and API development, all highly relevant to CustomGPT.ai's needs. His work with TypeScript and Python, along with his focus on developer tools and AI, makes him a strong fit.",
+      "score": 9.0,
+      "open_to_work": true,
+      "recommendation": "PURSUE IMMEDIATELY",
+      "strengths": "1. Expertise in AI Agents and workflows: Directly relevant to CustomGPT.ai's core business. 2. Strong technical skills in AI, data analysis, and API development: Demonstrated through projects like Sequel and Apico. 3. Product-oriented engineer with design sensibilities: Valuable for building user-friendly AI solutions."
+    },
+    {
+      "username": "GeorgeDong32",
+      "expertise": "GeorgeDong32 demonstrates a strong technical foundation with a focus on application development and a clear interest in AI/ML, particularly in the realm of Large Language Models (LLMs). His most notable contributions are to the `CherryHQ/cherry-studio` project, a desktop client that integrates multiple LLM providers. This work showcases his experience with TypeScript, cross-platform development, and the practical application of LLM APIs from providers like OpenAI, Gemini, and Anthropic. His personal project, `GoodPass`, a password manager with both CLI and GUI versions, further highlights his skills in C# and his ability to build and maintain a complete software application, including security considerations.",
+      "relevance": "His experience is highly relevant to CustomGPT.ai. The work on `CherryHQ/cherry-studio` directly aligns with CustomGPT.ai's business of creating custom GPT solutions and AI agents. He has hands-on experience with the exact technologies and concepts that are central to CustomGPT.ai's products. His contributions, including feature development and bug fixes for LLM-related functionalities, indicate that he can quickly become a productive member of the team.",
+      "score": 8.5,
+      "open_to_work": true,
+      "recommendation": "PURSUE IMMEDIATELY",
+      "strengths": "Direct Experience with LLMs: Proven contributions to a popular desktop client for multiple LLM providers.\nStrong Software Engineering Fundamentals: Demonstrated ability to build, maintain, and contribute to complex software applications.\nActive and Recent Contributions: Consistent and recent activity on GitHub shows a high level of engagement and passion for development."
+    }
+  ],
+  "tier2_pursue_not_open": [],
+  "tier3_strong_open_high": [
+    {
+      "username": "connortbot",
+      "expertise": "Connor Loi is a Computer Science student at the University of Waterloo with significant experience in AI/ML, agentic systems, LLMs, and APIs. As a core team member at Helicone, he contributes to an open-source LLM observability platform (TypeScript) and an AI gateway (Rust). His projects include Squeak (language learning), LiveStory (won 'Best Use of Vapi' for voice AI), Caitlyn Renderer (C++), Starbit (space RTS with gRPC and QUIC in Go), and a podcast diarization project focused on audio clustering in a machine learning pipeline. He also has experience in academic research, having written a paper on Principled BSDF models.",
+      "relevance": "Connor Loi's experience is highly relevant to CustomGPT.ai. His core involvement with Helicone, an open-source LLM observability platform and AI gateway, directly aligns with CustomGPT.ai's focus on custom GPT solutions and AI agents. His work on the podcast diarization project demonstrates practical application of machine learning in audio processing, which could be valuable for agentic systems requiring multimodal understanding. Furthermore, his experience with APIs (Vapi, Helicone's AI gateway) is crucial for integrating and managing AI services.",
+      "score": 9.0,
+      "open_to_work": true,
+      "recommendation": "STRONG CANDIDATE",
+      "strengths": "1. Deep expertise in LLM observability and AI gateway development (Helicone).\n2. Strong practical experience in machine learning, particularly audio clustering and agentic systems.\n3. Proven ability to contribute to and lead open-source projects with significant impact."
+    },
+    {
+      "username": "areibman",
+      "expertise": "Alex Reibman is a Data Scientist with a strong focus on AI/ML, particularly in the realm of AI agents, LLMs, and developer tools. His work includes significant contributions to AgentOps, an AI agent monitoring and benchmarking SDK, and projects like Jaiqu (AI-driven JSON reformatting) and tokencost (LLM token price estimation). He has experience with various LLM frameworks (CrewAI, Langchain, Autogen) and has developed tools for managing coding agents (freeswarm, bottleneck). His projects demonstrate proficiency in Python and TypeScript, with a clear emphasis on building practical AI-driven solutions and developer infrastructure.",
+      "relevance": "Alex Reibman's skills are highly relevant to CustomGPT.ai. His extensive experience with AI agents, LLMs, and API development directly aligns with CustomGPT.ai's core business of building custom GPT solutions and AI agents. His work on AgentOps, Jaiqu, and tokencost showcases a deep understanding of the AI agent ecosystem, LLM operations, and developer tooling, all of which are critical areas for CustomGPT.ai.",
+      "score": 9.0,
+      "open_to_work": true,
+      "recommendation": "STRONG CANDIDATE",
+      "strengths": "1. Deep expertise in AI agents, LLMs, and related developer tools. 2. Strong track record of building practical, impactful AI-driven solutions. 3. Active contributor to open-source projects, demonstrating collaboration and leadership."
+    },
+    {
+      "username": "juliettech13",
+      "expertise": "Juliettech13 demonstrates strong technical expertise in LLM observability (helicone-ollama-proxy), RAG strategies with OpenAI's API (discord_rag_app), and workflow automation with LLMs (n8n-nodes-helicone). They are an active contributor to the Helicone project, integrating new LLM models like llama-3.3-70b-instruct. Their work is primarily in TypeScript and JavaScript, with a focus on developer tools and improving developer experience.",
+      "relevance": "Juliettech13's experience with LLMs, OpenAI's API, RAG strategies, and LLM observability platforms (Helicone) is highly relevant to CustomGPT.ai's focus on building custom GPT solutions and AI agents. Their DevRel background also aligns with potential needs for developer advocacy.",
+      "score": 8.5,
+      "open_to_work": true,
+      "recommendation": "STRONG CANDIDATE",
+      "strengths": "1. Deep expertise in LLMs, RAG, and API integration. 2. Strong developer relations and communication skills. 3. Active contributor to open-source projects, particularly in the AI/LLM space."
+    },
+    {
+      "username": "DeJeune",
+      "expertise": "DeJeune (SuYao) is a student at the Chinese Academy of Sciences University with significant technical expertise in AI/ML, large language models (LLMs), and agentic systems. Their notable projects include contributions to `CherryHQ/cherry-studio`, a desktop client supporting multiple LLM providers, and `vercel/ai`, an open-source library for building AI-powered applications and agents. They also developed `mac-system-ocr`, a MacOS OCR Native Node.js Module, indicating skills in developer tools and potentially AI/ML applications. Their recent activity shows involvement in enhancing reasoning support for various LLMs (deepseek v3.2, claude 4.5, qlm 4.6) within the `cherry-studio` project. They have made 2,035 contributions in the last year, demonstrating high activity and engagement.",
+      "relevance": "DeJeune's involvement with CherryHQ/cherry-studio (a desktop client for multiple LLM providers) and vercel/ai (an AI toolkit for building AI-powered applications and agents) demonstrates strong relevance to CustomGPT.ai's business focus on custom GPT solutions and AI agents. Their recent contributions to `cherry-studio` involving reasoning support for various LLMs further solidify this relevance.",
+      "score": 8.5,
+      "open_to_work": true,
+      "recommendation": "STRONG CANDIDATE",
+      "strengths": "1. Strong expertise in AI/ML, LLMs, and agentic systems, evidenced by contributions to `cherry-studio` and `vercel/ai`. 2. Proficiency in TypeScript and JavaScript, crucial for modern web and application development. 3. Active contributor with a high volume of contributions and involvement in significant open-source projects."
+    },
+    {
+      "username": "beyondkmp",
+      "expertise": "beyondkmp's GitHub profile reveals a strong technical background with a particular focus on desktop application development using Electron and related tooling. Their primary programming languages appear to be TypeScript and C++, with an implied proficiency in Node.js/JavaScript. Key projects highlight expertise in: Desktop Application Development (maintainer of electron-builder, deep knowledge in packaging, building, and distributing Electron applications); LLM Integration (Client-Side) (CherryHQ/cherry-studio, a desktop client supporting multiple LLM providers, demonstrating practical experience in integrating and working with large language models); System-Level Programming and Native Modules (win-verify-signature, a C++ wrapper for the Windows WinVerifyTrust API, showcasing experience with lower-level system programming); and Developer Tools and Utilities (building developer-centric tools and utilities that enhance application functionality or development workflows).",
+      "relevance": "beyondkmp's technical profile presents a high degree of relevance to CustomGPT.ai, a company focused on building custom GPT solutions and AI agents. Their direct involvement in CherryHQ/cherry-studio, a desktop client supporting multiple LLM providers, is a strong indicator of relevant experience. This project directly addresses the practical application and integration of LLMs, which is central to CustomGPT.ai's mission of creating custom GPT solutions and AI agents. beyondkmp would likely bring valuable insights into client-side LLM interaction patterns, API consumption, and user experience design for AI-powered applications. Furthermore, CustomGPT.ai might develop desktop applications or tools for its users or internal teams, making beyondkmp's extensive experience with Electron and electron-builder invaluable for building robust, cross-platform desktop interfaces for CustomGPT.ai's AI solutions. Their experience with API wrappers and general developer tool creation also aligns with the needs of interacting with various AI APIs and potentially building developer tools for custom agent creation. The broad engineering skill set and adaptability demonstrated are highly beneficial in the rapidly evolving field of AI and agentic systems.",
+      "score": 8.5,
+      "open_to_work": true,
+      "recommendation": "STRONG CANDIDATE",
+      "strengths": "1. Deep Expertise in LLM Client Development: Direct involvement with CherryHQ/cherry-studio demonstrates practical, hands-on experience in integrating and working with large language models, directly aligned with CustomGPT.ai's core business. 2. Proficiency in Electron and Desktop Application Ecosystem: Extensive knowledge in developing, packaging, and distributing cross-platform desktop applications, crucial for CustomGPT.ai if they plan to develop desktop-based tools or interfaces. 3. Strong Engineering Acumen and Problem-Solving Skills: Diverse contributions from high-level application development to system-level native modules indicate a broad and adaptable engineering skill set, critical in the rapidly evolving AI landscape."
+    },
+    {
+      "username": "enyst",
+      "expertise": "Engel Nyst is a software developer with a strong focus on AI agent systems and large language models (LLMs), evidenced by extensive contributions to the `All-Hands-AI/OpenHands` project. Their work includes implementing LLM-based editing capabilities, troubleshooting agent behavior, and addressing security-related issues within AI frameworks. They also contribute to projects related to legal tech (`freelawproject/courtlistener`) and open data definitions (`okfn/opendefinition`, `okfn/licenses`), showcasing a diverse technical background in Python, HTML, and JavaScript. Recent activity indicates a consistent engagement with AI-related development and problem-solving.",
+      "relevance": "Engel Nyst's significant contributions to All-Hands-AI/OpenHands, an AI agent framework, directly align with CustomGPT.ai's focus on building custom GPT solutions and AI agents. Their work on LLM-based editing capabilities and addressing agent behavior issues demonstrates practical experience in areas critical to CustomGPT.ai's business. The 'copyright nerd' aspect also suggests an understanding of intellectual property, which can be valuable in AI development and content generation.",
+      "score": 8.5,
+      "open_to_work": true,
+      "recommendation": "STRONG CANDIDATE",
+      "strengths": "1. Deep expertise in AI agent development and LLMs, particularly with the OpenHands framework. 2. Strong contributor to open-source projects, demonstrating collaboration and code quality. 3. Proactive in identifying and resolving complex technical issues, including security and agent behavior."
+    },
+    {
+      "username": "Sushmithamallesh",
+      "expertise": "Sushmitha Mallesh is a software engineer with a strong focus on AI. Her technical expertise includes building RAG systems, AI agents, and voice-to-voice AI assistants. She has experience with agentic workflows and is actively learning ML fundamentals. Her GitHub profile shows contributions to projects like 'End-to-End-Phone-Assist' (JavaScript) and 'awesome_computer_use' (Python). She has made 424 contributions in the last year, with a significant portion being commits and pull requests, including a Python fix for tool call type errors. She also contributes to documentation, indicating good communication skills.",
+      "relevance": "Sushmitha Mallesh's current focus on building RAG systems, AI agents, voice-to-voice AI assistants, and agentic workflows directly aligns with CustomGPT.ai's business of building custom GPT solutions and AI agents. Her interest in AI developer tools and learning ML fundamentals further enhances her relevance.",
+      "score": 8.5,
+      "open_to_work": true,
+      "recommendation": "STRONG CANDIDATE",
+      "strengths": "1. Strong focus and active contributions in AI/ML, RAG systems, and AI agents. 2. Experience with both JavaScript and Python, demonstrating versatility. 3. Proactive learning and interest in AI developer tools and ML fundamentals."
+    },
+    {
+      "username": "EurFelux",
+      "expertise": "EurFelux is a graduate student with a machine learning background, specializing in front-end development with experience in full-stack application development. They are the maintainer of Cherry Studio, an open-source desktop client supporting multiple LLM providers (TypeScript). Other notable projects include contributions to Vercel/AI (AI Toolkit for TypeScript) and an Obsidian plugin. Their recent contributions show consistent activity in AI/LLM-related projects, with a good balance of commits, pull requests, and code reviews.",
+      "relevance": "EurFelux's strong background in machine learning, coupled with their role as a maintainer of Cherry Studio (a desktop client for multiple LLM providers), directly aligns with CustomGPT.ai's focus on AI agents and LLMs. Their experience in full-stack development and building user-friendly applications is highly relevant for developing and integrating custom GPT solutions and APIs.",
+      "score": 8.5,
+      "open_to_work": true,
+      "recommendation": "STRONG CANDIDATE",
+      "strengths": "1. Expertise in AI/LLMs and full-stack development. 2. Active maintainer of a significant open-source project (Cherry Studio). 3. Strong recent contributions and a clear passion for building meaningful tools."
+    },
+    {
+      "username": "Pleasurecruise",
+      "expertise": "Pleasurecruise is a third-year undergraduate student majoring in Computer Science Artificial Intelligence (CSAI) with a focus on React, Golang, and Machine Learning. They have developed LLM-supporting desktop and mobile applications (Cherry Studio) and possess experience in API development (linux-do-mcp). Their technical stack includes TypeScript, Java, Python, and Vue.js.",
+      "relevance": "Pleasurecruise's academic background in Computer Science Artificial Intelligence and practical experience with LLM-supporting applications (Cherry Studio) directly align with CustomGPT.ai's focus on AI agents and custom GPT solutions. Their experience with API development and active contributions to relevant projects make them highly relevant.",
+      "score": 8.5,
+      "open_to_work": true,
+      "recommendation": "STRONG CANDIDATE",
+      "strengths": "Strong academic foundation in AI, practical experience with LLM-based applications, active contributor to open-source projects, and proficiency in relevant programming languages (TypeScript, Python, Java)."
+    },
+    {
+      "username": "CREDO23",
+      "expertise": "Thierry CH. is a Software Engineer specializing in JavaScript and TypeScript. His technical stack includes Python, HTML, CSS, TailwindCSS, SCSS, MySQL, MongoDB, PostgreSQL, SQLite3, Git, GitHub, GitFlow, Jira, Agile, and Docker. He has significant experience in building real-time web applications, as demonstrated by his chat application projects using ReactJs, ExpressJs, MongoDB, and Socket.IO. A notable project is SurfSense, an open-source alternative to NotebookLM/Perplexity, which involves integrating various external data sources like search engines, Slack, Notion, and GitHub.",
+      "relevance": "Thierry CH.'s experience with the SurfSense project, which integrates various data sources and functions as an open-source alternative to AI-powered tools like NotebookLM/Perplexity, is highly relevant to CustomGPT.ai's focus on AI agents and custom GPT solutions. His strong proficiency in TypeScript, JavaScript, and Python, coupled with experience in real-time applications and Docker, provides a solid technical foundation for developing and deploying AI-driven platforms. While direct LLM experience isn't explicit, his ability to integrate diverse data and build complex web applications makes him well-suited to adapt to and contribute to AI agent development.",
+      "score": 8.5,
+      "open_to_work": true,
+      "recommendation": "STRONG CANDIDATE",
+      "strengths": "1. Strong full-stack development skills (TypeScript, JavaScript, Python, ReactJs, NodeJs, MongoDB, PostgreSQL).\n2. Experience with data integration and building intelligent systems (SurfSense project).\n3. Active contributor to open-source projects with a focus on code quality and collaboration."
+    },
+    {
+      "username": "rsmets",
+      "expertise": "Ray Smets is a software developer, technical leader, and electronics enthusiast. His technical expertise spans deep stack distributed systems development and developer operations. His personal projects highlight a strong focus on AI/ML, particularly in agentic systems and LLMs, with projects like 'Agentic AI Video Chat' and 'Generative AI David Attenborough Narration'. He also has a CLI tool ('bot0x-cli') and contributions to various repositories, including a recent Python project 'rsmets/openpoke'. His contribution activity shows a good balance of commits, pull requests, and code reviews.",
+      "relevance": "Ray Smets' experience is highly relevant to CustomGPT.ai. His personal projects include 'Agentic AI Video Chat' and 'Generative AI David Attenborough Narration', directly aligning with AI agents and LLM applications. His GitHub also shows a recent repository 'rsmets/openpoke' in Python, indicating continued engagement with AI-related development. His past role as CTO and co-founder suggests leadership and product development experience, which is valuable for a company building custom GPT solutions.",
+      "score": 8.5,
+      "open_to_work": true,
+      "recommendation": "STRONG CANDIDATE",
+      "strengths": "1. Strong technical expertise in AI/ML, agentic systems, and LLMs, demonstrated through personal projects and recent contributions. 2. Experience as a CTO and co-founder, indicating leadership, product development, and developer operations skills. 3. Active and consistent contributions on GitHub, showcasing a passion for development and continuous learning."
+    },
+    {
+      "username": "alephpiece",
+      "expertise": "Alephpiece possesses strong technical expertise in AI/ML, LLMs, API integration, and developer tools. Key projects include 'CherryHQ/cherry-studio', a desktop client supporting various LLM providers with AI assistants and conversational features, and 'mcpo-docker', which exposes Model Context Protocol servers as OpenAPI-compatible HTTP endpoints using Docker. They are proficient in TypeScript, Docker, and Python, with a high volume of recent contributions (1,446 in the last year) across commits, code reviews, and pull requests.",
+      "relevance": "Alephpiece's experience with multi-LLM provider desktop clients (CherryHQ/cherry-studio), API integration via OpenAPI (mcpo-docker), and development of AI-related tools aligns strongly with CustomGPT.ai's focus on custom GPT solutions and AI agents. Their work demonstrates practical application of LLMs, API design, and containerization, all crucial for CustomGPT.ai's business.",
+      "score": 8.5,
+      "open_to_work": true,
+      "recommendation": "STRONG CANDIDATE",
+      "strengths": "1. Deep understanding and practical experience with multiple LLM providers and AI agent development. 2. Strong API design and integration skills, particularly with OpenAPI and Model Context Protocol. 3. Active contributor to significant open-source projects, demonstrating strong collaboration and code quality."
+    },
+    {
+      "username": "abhishekg999",
+      "expertise": "Abhishek Govindarasu possesses strong technical expertise in Python, TypeScript, and Go, with a focus on full-stack development, automation, API integrations, and web security. His notable projects include 'JudgmentLabs/judgeval', an open-source platform for agent post-training and monitoring, demonstrating deep understanding of AI agentic systems. He has also contributed to API clients (supabase/postgrest-py), developed security tools (Fuzex, secret, WebUtils), and showcased problem-solving skills through AdventOfCode and CTF participation. His experience also includes developing web applications and working with various frameworks and tools like Flask, React, NextJS, and PostgreSQL.",
+      "relevance": "Abhishek's work on 'JudgmentLabs/judgeval', an open-source project for agent post-training and monitoring, is highly relevant to CustomGPT.ai's focus on building custom GPT solutions and AI agents. His expertise in Python, TypeScript, Go, API integrations, and web security are also directly applicable and valuable for developing robust AI systems and platforms.",
+      "score": 8.5,
+      "open_to_work": true,
+      "recommendation": "STRONG CANDIDATE",
+      "strengths": "1. Expertise in AI agent systems and LLM validation (JudgmentLabs/judgeval). 2. Strong full-stack development skills with Python, TypeScript, and Go. 3. Proven leadership and collaboration in CTF and open-source projects."
+    },
+    {
+      "username": "anka-afk",
+      "expertise": "Anka-afk's technical expertise is primarily in Python, with a significant focus on Jupyter Notebooks (77.30%), indicating a strong background in data science, machine learning, and prototyping. Their key projects revolve around AI and LLMs, particularly in the development of chatbot frameworks. The most notable project is a fork of 'AstrBotDevs/AstrBot', a multi-platform LLM chatbot and development framework supporting various communication platforms (QQ, Telegram, WeChat, Feishu) and integrating with multiple LLMs (OpenAI, DeepSeek, Gemini, etc.). They also have contributions to related AstrBot plugins, demonstrating experience in extending and customizing AI agent functionalities. Other projects include 'DearMoments', an AI memory module combining LLMs, semantic embedding, and dynamic clustering for long-term memory in dialogue systems, and 'openai-gemini', an OpenAI API proxy for Gemini. This indicates a strong practical understanding of LLM integration, API development, and AI agent architecture.",
+      "relevance": "Anka-afk's work is highly relevant to CustomGPT.ai. Their primary project, AstrBot, is an LLM chatbot framework supporting multiple platforms and various LLMs, including OpenAI and Gemini. This directly aligns with CustomGPT.ai's focus on building custom GPT solutions and AI agents. Their interest in Deep Learning and contributions to projects involving LLMs, APIs, and chatbot development demonstrate a strong foundational and practical understanding of the core technologies CustomGPT.ai utilizes.",
+      "score": 8.5,
+      "open_to_work": true,
+      "recommendation": "STRONG CANDIDATE",
+      "strengths": "1. Strong expertise in LLM-based chatbot development and frameworks (AstrBot).\n2. Practical experience with various LLMs and API integrations.\n3. Active contributor with a focus on AI/ML applications and developer tools."
+    },
+    {
+      "username": "HenryHengZJ",
+      "expertise": "HenryHengZJ demonstrates a strong technical background with expertise in Android development (Java), React Native for mobile applications, full-stack web development (JavaScript, React), and blockchain/DApp development (Solidity). A notable area of focus is AI/ML, evidenced by the 'HandyHealth' project utilizing sklearn for disease diagnosis and, more significantly, extensive recent contributions to FlowiseAI, an open-source platform for building LLM applications. Their contributions to FlowiseAI include opening pull requests related to secure cookies, file upload functionality, and tool updates, indicating hands-on experience with LLM-based systems and API integrations.",
+      "relevance": "HenryHengZJ's contributions to FlowiseAI, an open-source low-code platform for LLM apps, directly align with CustomGPT.ai's focus on building custom GPT solutions and AI agents. Their work on integrating Claude 4 and enhancing file upload functionality within Flowise demonstrates practical experience with LLMs and agentic systems. The experience with APIs, web development, and mobile development also provides a strong foundation for building and integrating AI solutions.",
+      "score": 8.5,
+      "open_to_work": true,
+      "recommendation": "STRONG CANDIDATE",
+      "strengths": "1. Strong experience with LLM application development through FlowiseAI contributions. 2. Diverse technical background including mobile, web, and blockchain development. 3. Active and consistent contributor to open-source projects."
+    }
+  ],
+  "tier4_strong_open": [
+    {
+      "username": "MyPrototypeWhat",
+      "expertise": "MyPrototypeWhat is a frontend developer with strong skills in JavaScript and TypeScript. They are proficient in modern web frameworks such as React, Next.js, and Vue.js, and have experience with build tools like Vite and Node.js. Notable projects include 'vite-plugin-svgr' (a Vite plugin for transforming SVGs into React components) and 'npx-scope-finder' (a CLI tool for discovering executable packages within npm scopes). They also contribute to 'cherry-studio', a desktop client supporting multiple LLM providers, showcasing experience with AI/LLM-related development.",
+      "relevance": "MyPrototypeWhat's contribution to 'cherry-studio', a desktop client supporting multiple LLM providers, demonstrates direct relevance to CustomGPT.ai's focus on AI agents and LLMs. Their expertise in JavaScript/TypeScript, React, and Node.js is valuable for developing and integrating AI solutions and APIs.",
+      "score": 7.5,
+      "open_to_work": true,
+      "recommendation": "STRONG CANDIDATE",
+      "strengths": "1. Frontend development expertise with a strong focus on JavaScript/TypeScript and modern frameworks (React, Next.js, Vue.js). 2. Direct experience contributing to an LLM-focused project ('cherry-studio'). 3. Proactive open-source contributor with a passion for developer tools and improving workflows."
+    },
+    {
+      "username": "jpetrucciani",
+      "expertise": "Jacobi Petrucciani is a highly skilled engineer with a strong focus on DevOps, platform engineering, and Python development. His technical stack includes Python, Nix, Terraform, Go, Bash, SQL, JavaScript, Amazon AWS, Google Cloud, Docker, Kubernetes, and Linux. Notable projects include 'pog' (a powerful bash scripting tool), 'nix' (Nix modules and host configurations), 'hex' (Nix abstraction for Kubernetes), 'ruff-check' and 'black-check' (GitHub Actions for code quality), and 'pyclickup' (a Python library for the ClickUp API). He has a significant number of contributions (2,530 in the last year) and maintains several public repositories, indicating active engagement and continuous learning.",
+      "relevance": "Jacobi Petrucciani's expertise in Python, cloud platforms (AWS, GCP), Docker, Kubernetes, and infrastructure as code (Terraform, Nix) is highly relevant to CustomGPT.ai. His work on GitHub Actions for code quality (ruff-check, black-check) and a Python library for API interaction (pyclickup) demonstrates a strong foundation in developer tools and API integration, which are crucial for building and deploying AI agents and LLM-based solutions. While direct AI/ML or LLM projects are not explicitly highlighted, his robust DevOps and platform engineering skills are essential for scaling and maintaining AI infrastructure.",
+      "score": 7.0,
+      "open_to_work": true,
+      "recommendation": "STRONG CANDIDATE",
+      "strengths": "DevOps and Platform Engineering (Nix, Terraform, Docker, Kubernetes, AWS, GCP), Python development and API integration, focus on code quality and automation (GitHub Actions)."
+    },
+    {
+      "username": "axiomofjoy",
+      "expertise": "Xander Song (axiomofjoy) demonstrates strong technical expertise in machine learning and deep learning, particularly with PyTorch. His projects highlight a focus on:\n\n*   **Deep Learning Architectures:** Implementation of various Recurrent Neural Networks (RNNs), LSTMs, and Gated Recurrent Units (GRUs) in PyTorch, indicating a solid understanding of sequential data processing and neural network design.\n*   **Applied Machine Learning:** Application of supervised and unsupervised learning techniques, including Dual and Kernel Principal Component Analysis (PCA), to complex datasets like human genomic data for dimension reduction and visualization. This suggests practical experience in data preprocessing, feature engineering, and model interpretation.\n*   **AI/ML Model Development and Optimization:** Involvement in a music generation and model compression project (`amadeus`) using PyTorch and Distiller, showcasing experience in building generative AI models and optimizing them for performance.\n*   **Data Visualization and Web Applications:** Development of a Dash application (`onekgenomes3dplot`) for interactive visualization of PCA results, demonstrating skills in creating user-facing tools for data exploration.\n*   **Developer Tools and MLOps (via Arize AI contributions):** His role as Eng + DevRel at Arize AI and recent contributions to `Arize-ai/phoenix` and `Arize-ai/openinference` indicate significant involvement in developer tools, MLOps platforms, and potentially LLM-related observability. The issue he created regarding 'model name not recorded for `autogen-agentchat` LLM spans' directly points to experience with LLM-based agentic systems and their monitoring.\n\nHis work primarily revolves around Python, PyTorch, and Jupyter Notebooks, with recent activity showing engagement in open-source projects related to AI observability and LLM agent development.",
+      "relevance": "Xander Song's experience at Arize AI as an Eng + DevRel, coupled with his contributions to projects like `Arize-ai/phoenix` and `Arize-ai/openinference`, demonstrates a strong understanding of MLOps, developer tools, and AI observability. His recent activity, including creating an issue related to LLM spans for `autogen-agentchat`, directly aligns with CustomGPT.ai's focus on AI agents, LLMs, and APIs. His background in deep learning architectures (RNNs, LSTMs, GRUs) and applied machine learning (PCA for genomic data) further strengthens his relevance, indicating a solid foundation in core AI/ML concepts.",
+      "score": 6.3,
+      "open_to_work": true,
+      "recommendation": "STRONG CANDIDATE",
+      "strengths": "1. Strong AI/ML Foundation and Practical Application: Xander possesses a solid understanding of deep learning architectures (RNNs, LSTMs, GRUs) and has applied supervised and unsupervised learning techniques to real-world data (genomic data). His work on music generation and model compression further demonstrates his ability to develop and optimize AI/ML models.\n2. Expertise in MLOps, Developer Tools, and LLM Observability: His role as Eng + DevRel at Arize AI and active contributions to `Arize-ai/phoenix` and `Arize-ai/openinference` highlight his experience with MLOps platforms, developer tools, and, crucially, LLM-related observability. His recent issue creation regarding `autogen-agentchat` LLM spans directly indicates hands-on experience with agentic systems and their monitoring, which is highly relevant to CustomGPT.ai.\n3. Proactive Contributor and Communication Skills: With 1,759 contributions in the last year and active pull request reviews, Xander demonstrates a strong work ethic and commitment to open-source development. His Eng + DevRel role also suggests strong communication and collaboration skills, essential for a dynamic team environment."
+    },
+    {
+      "username": "jkomyno",
+      "expertise": "Alberto Schiabel is a DX software engineer specializing in developer tools, databases, and mathematical optimization. He possesses strong proficiency in TypeScript (Node.js monorepos, React.js hooks), Rust (WebAssembly, zero-copy serialization), and C++ (data structures). His work at Prisma involves building robust developer-centric solutions and API interactions. He has extensive experience with WebAssembly for high-performance applications and cross-language interoperability. While not explicitly focused on AI/ML, his foundational skills are highly transferable to AI agent and LLM development.",
+      "relevance": "Alberto Schiabel's skills are highly relevant to CustomGPT.ai. His expertise in developer tools, APIs, and serialization protocols (Cap'n Proto) is crucial for building robust integrations for GPT solutions. His work with Rust and WebAssembly demonstrates a focus on performance optimization, essential for scalable AI systems. His strong TypeScript background is beneficial for tooling and frontends. Furthermore, his involvement with ComposioHQ/composio, an AI agent framework, directly links his experience to the domain of AI agents, making him a strong fit for CustomGPT.ai's mission.",
+      "score": 5.4,
+      "open_to_work": true,
+      "recommendation": "STRONG CANDIDATE",
+      "strengths": "Strong expertise in developer tools, APIs, and modern languages (TypeScript, Rust, C++); significant contributions to open-source projects including an AI agent framework; excellent communication and collaboration skills as an international tech speaker and active code reviewer."
+    }
+  ],
+  "tier5_strong_not_open": [],
+  "tier6_consider_open": []
+}

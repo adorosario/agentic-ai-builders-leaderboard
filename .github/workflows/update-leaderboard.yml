@@ -1,0 +1,83 @@
+name: Update Leaderboard
+
+on:
+  schedule:
+    # Run daily at 03:00 UTC
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+    # Allow manual triggering
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq
+          gh --version  # GitHub CLI pre-installed on ubuntu-latest
+
+      - name: Authenticate GitHub CLI
+        run: gh auth status
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Run leaderboard generation
+        run: |
+          chmod +x scripts/run_leaderboard.sh
+          chmod +x scripts/extract_contributors_rest.sh
+          chmod +x scripts/hydrate_profiles.sh
+          ./scripts/run_leaderboard.sh
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if git diff --quiet leaderboard.md leaderboard.csv leaderboard.jsonl; then
+            echo "changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "changes=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push if changes
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add leaderboard.md leaderboard.csv leaderboard.jsonl
+          git commit -m "🤖 Update leaderboard - $(date -u '+%Y-%m-%d %H:%M UTC')
+
+          🔄 Generated with GitHub Actions
+
+          Co-Authored-By: Claude <noreply@anthropic.com>"
+          git push
+
+      - name: Create summary
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          echo "## 🏆 Leaderboard Updated" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Date:** $(date -u '+%Y-%m-%d %H:%M UTC')" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Top 5 Builders" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          head -8 leaderboard.md | tail -5 >> $GITHUB_STEP_SUMMARY
+
+      - name: No changes summary
+        if: steps.check_changes.outputs.changes == 'false'
+        run: |
+          echo "## ℹ️ No Changes" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "Leaderboard data has not changed since last run." >> $GITHUB_STEP_SUMMARY
