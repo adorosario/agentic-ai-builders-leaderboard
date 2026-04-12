@@ -1,201 +1,201 @@
 rank,login,name,score,followers,merged_recent,reviews,isHireable,company,location
-1,Soulter,Soulter ,68,904,50,97,True,@astrbotdevs,Earth
+1,Soulter,Soulter ,68,908,50,101,True,@astrbotdevs,Earth
 2,dokterbob,Mathijs de Bruin,68,183,49,62,True,@synergyai-nl,Portugal
 3,CryogenicPlanet,Rahul Tarak,67,176,50,59,True,@composiohq | prev founded @scalarhq,SF
 4,areibman,Alex Reibman,66,235,38,49,True,,San Francisco
 5,jkomyno,Alberto Schiabel,66,270,50,461,True,@prisma,"Tbilisi, Georgia"
-6,jnMetaCode,,66,237,50,47,True,,
-7,mxmzb,Maxim,66,96,27,48,True,,
+6,jnMetaCode,,66,240,50,47,True,,
+7,mxmzb,Maxim,66,97,27,48,True,,
 8,0xi4o,Ilango,65,94,30,140,True,,"Bangalore, India"
 9,AbdulSamad94,Abdul Samad Siddiqui,65,24,50,60,True,,"Karachi, Pakistan."
-10,AnishSarkar22,Anish Sarkar,65,29,50,168,True,SurfSense,India
+10,AnishSarkar22,Anish Sarkar,65,29,50,173,True,SurfSense,India
 11,Boburmirzo,Bobur Umurzokov,65,165,25,47,True,Microsoft,"San Francisco, USA"
 12,Dakuan,,65,28,50,229,True,,Hitchin
 13,GeorgeDong32,George·Dong,65,26,50,189,True,Sun Yat-Sen University,
-14,HenryHengZJ,Henry Heng,65,762,50,70,True,,
-15,Sushmithamallesh,Sushmitha Mallesh,65,22,50,50,True,,
-16,abhishekg999,Abhishek Govindarasu,65,12,50,204,True,,
+14,HenryHengZJ,Henry Heng,65,762,50,75,True,,
+15,Sushmithamallesh,Sushmitha Mallesh,65,22,50,59,True,,
+16,abhishekg999,Abhishek Govindarasu,65,12,50,208,True,,
 17,asvishnyakov,Aleksandr Vishniakov,65,17,41,140,True,VirtoCommerce,
 18,awilfox,Anna Wilcox,65,122,50,123,True,@BerkeleyLibrary,Near a PowerPC computer
 19,axiomofjoy,Xander Song,65,49,50,119,True,,"San Francisco, CA"
-20,beyondkmp,beyondkmp,65,101,48,246,True,,Canada
+20,beyondkmp,beyondkmp,65,101,48,248,True,,Canada
 21,catrielmuller,Catriel Müller,65,55,50,197,True,,Argentina
 22,giulio-leone,Giulio Leone,65,12,50,141,True,AI Systems Architect & Solutions Consultant,Italy | Open to Relocation (EU / UAE / USA)
-23,juliettech13,_juliettech,65,46,50,59,True,"@helicone, @lewagon, @aragon, @cyfrin",localhost:8000
-24,kianmeng,Ang,65,150,47,68,True,,"Kuala Lumpur, Malaysia"
-25,kovsu,Konv Suu,65,76,50,183,True,,🌍
-26,tysonthomas9,Tyson Thomas,65,19,38,70,True,,"Seattle, WA"
-27,anubhav756,Anubhav Dhawan,64,8,50,190,True,@GoogleCloudPlatform @googlers @googleapis ,New Delhi
-28,MyPrototypeWhat,,63,7,27,178,True,,
-29,abir-taheer,Abir Taheer,62,176,23,42,True,,NYC
-30,jimbobbennett,Jim Bennett,62,698,50,98,False,Arize AI,"Redmond, USA"
-31,kazunori279,Kaz Sato,62,472,31,101,False,"Google, Inc.","Tokyo, Japan"
-32,koverholt,Kristopher Overholt,62,322,50,76,False,Google,"Austin, TX"
-33,AlemTuzlak,Alem Tuzlak,61,533,48,93,False,,
-34,DeJeune,SuYao,61,53,50,153,False,Chinese Academy of Sciences University,
-35,chitalian,Justin Torre,61,253,49,55,False,Helicone ,San Francisco
-36,harish876,Harish ,61,15,24,36,True,@apache,Davis
-37,he-yufeng,Yufeng He,61,256,37,77,False,Moonshot AI,Hong Kong
-38,kangfenmao,亢奋猫,61,371,50,97,False,,Shanghai - China
+23,harish876,Harish ,65,15,25,62,True,@apache,Davis
+24,juliettech13,_juliettech,65,46,50,59,True,"@helicone, @lewagon, @aragon, @cyfrin",localhost:8000
+25,kianmeng,Ang,65,150,48,69,True,,"Kuala Lumpur, Malaysia"
+26,kovsu,Konv Suu,65,76,49,184,True,,🌍
+27,salmanmkc,Salman Chishti,65,553,48,95,True,"GitHub, ex-Microsoft","London, UK"
+28,tysonthomas9,Tyson Thomas,65,19,38,70,True,,"Seattle, WA"
+29,MyPrototypeWhat,,63,7,27,178,True,,
+30,abir-taheer,Abir Taheer,62,176,23,42,True,,NYC
+31,jimbobbennett,Jim Bennett,62,697,50,98,False,Arize AI,"Redmond, USA"
+32,kazunori279,Kaz Sato,62,472,31,101,False,"Google, Inc.","Tokyo, Japan"
+33,koverholt,Kristopher Overholt,62,323,50,76,False,Google,"Austin, TX"
+34,AlemTuzlak,Alem Tuzlak,61,534,48,93,False,,
+35,DeJeune,SuYao,61,53,50,153,False,Chinese Academy of Sciences University,
+36,chitalian,Justin Torre,61,253,49,55,False,Helicone ,San Francisco
+37,he-yufeng,Yufeng He,61,258,37,77,False,Moonshot AI,Hong Kong
+38,kangfenmao,亢奋猫,61,372,50,97,False,,Shanghai - China
 39,ranst91,Ran Shemtov,61,48,46,64,False,,
-40,renovate-bot,Mend Renovate,61,2370,50,48,False,@mend,
-41,ssongliu,ssongliu,61,40,50,66,False,,
-42,vaayne,LiuVaayne,61,83,50,83,False,,Beijing
-43,zhengkunwang223,CityFun,61,71,50,66,False,FIT2CLOUD,Beijing
-44,zouyonghe,エイカク,61,41,50,360,False,,
-45,04cb,layla,60,48,50,31,True,,Spicewood
-46,Br1an67,Br1an,60,10,50,50,False,,China
-47,CREDO23,Thierry CH.,60,151,50,106,False,Surfsense Inc,
-48,Chukwuebuka-2003,Chukwuebuka (Gaus Octavio ),60,221,33,48,False,Nimbuss Solutions Provider,Spaceship
-49,Githubguy132010,Thomas Brugman,60,13,34,119,False,,
-50,KumarVandit,VanditKumar,60,26,50,60,False,@photon-hq ,
-51,LIghtJUNction,LIghtJUNction,60,67,50,94,False,@AstrBotDevs @MemDeco-WG ,
-52,MODSetter,Rohan Verma,60,261,50,117,False,SurfSense,"San Jose, CA, US"
-53,RC-CHN,Ruochen Pan,60,92,33,127,False,Independent Developer,
-54,RogerHYang,Roger Yang,60,44,50,104,False,,"San Francisco, CA"
-55,Sameerlite,Sameer Kankute,60,13,50,94,False,@BerriAI,
-56,adrinr,Adria Navarro,60,16,50,244,False,,
-57,anticorrelator,Dustin Ngo,60,26,50,249,False,,
-58,cephalization,Tony Powell,60,62,50,153,False,@Arize-ai,"Ann Arbor, Michigan"
-59,colegottdank,,60,19,50,58,False,,
-60,cyyeh,Chih-Yu Yeh,60,202,28,63,False,@Canner,"New Taipei, Taiwan"
-61,eeee0717,槑囿脑袋,60,48,46,144,False,,
-62,eshurakov,Evgeny Shurakov,60,26,50,199,False,,
-63,exynos967,Exynos,60,29,37,47,False,exynos,Hangzhou
-64,gericdong,Eric Dong,60,79,46,69,False,,
-65,hayescode,Josh Hayes,60,27,30,114,False,,
-66,jvcalderon,José Vte. Calderón,60,38,32,146,False,,
-67,kawayiYokami,Yokami,60,16,50,123,False,,
-68,kirillk,Kirill Kalishev,60,12,33,135,False,,
-69,luojiyin1987,luo jiyin,60,230,50,61,False,,Wuzhou China
-70,majiayu000,lif,60,82,50,165,False,,China BeiJing
-71,melohagan,,60,37,50,281,False,,
-72,mvanhorn,Matt Van Horn,60,863,50,66,False,,
-73,octo-patch,Octopus,60,43,50,54,False,Independent Developer,San Francisco
-74,piexian,氕氙,60,33,50,117,False,,成都
-75,tmchow,Trevin Chow,60,43,50,189,False,,"Seattle, WA"
-76,ConorWebb96,Conor Webb,59,9,42,94,False,Budibase,Derry
-77,justinsheu,Justin Sheu,59,8,27,260,False,,
-78,katiemn,Katie Nguyen,59,61,24,114,False,@ google,
-79,maxkorp,Max Korp,59,46,49,29,True,@copilotkit,"Phoenix, AZ"
-80,mikesealey,Mike Sealey,59,9,27,99,False,,
-81,deanhannigan,,58,7,48,208,False,,
-82,ehutt,Elizabeth Hutton,58,2,50,178,True,University of Southern California,"Los Angeles, CA"
-83,hztBUAA,Zhenting Huang,58,30,28,40,False,BUAA,Beijing
-84,ishaan-berri,,58,7,50,73,False,,
-85,lan-yonghui,蘭,58,11,50,39,False,,
-86,shivamrawat1,Shivam Rawat,58,2,47,69,True,Minerva University,San Francisco
-87,veeceey,Varun Chawla,58,7,50,147,False,,
-88,BenTaylorDev,Ben Taylor,57,6,25,81,False,,
-89,LikiosSedo,Sedo,57,6,50,108,False,,
-90,mikeldking,Mikyo King,57,120,50,38,False,Arize AI,San Francisco
-91,H2Shami,Hammad Shami,56,4,50,199,False,,
-92,haxzie,Musthaq Ahamad,56,352,50,32,False,@composiohq,"Bengaluru, India"
-93,lambertjosh,Joshua Lambert,56,4,50,245,False,,
-94,ming1523,,56,5,28,54,False,,
-95,mme,Markus Ecker,56,136,35,29,False,,Austria
-96,pikaxinge,,56,5,29,72,False,,
-97,tsubasakong,Frank,56,48,50,31,False,,
-98,wzh1994,wangzhihong,56,11,50,35,False,Beihang University,Beijing
-99,GeneralJerel,Jerel,55,30,39,32,False,,
-100,LingaoM,Lingao Meng,55,22,20,375,False,@xiaomi,Beijing China
-101,chengyongru,chengyongru,55,25,50,31,False,,
-102,JoeMakuta,Josué Makuta,54,34,22,37,False,,"Dubai, UAE"
-103,alanzhang25,Alan Zhang,54,3,41,259,False,,
-104,alex-alecu,Marian Alexandru Alecu,54,3,50,241,False,KiloCode,Cluj-Napoca
-105,marius-kilocode,Marius,54,3,50,144,False,,
-106,marthakelly,Martha Kelly Schumann,54,116,19,57,False,,Seattle
-107,Futureppo,Futureppo,53,32,22,34,False,,US
-108,andz-bb,Andrew Thompson,53,6,21,156,False,@budibase,belfast
-109,calexiou,Christos Alexiou,53,2,44,115,False,,
-110,chilijung,Howard Chi,53,209,17,49,False,@Canner,
-111,ghost,Deleted user,53,12296,18,67,False,,"Nothing to see here, move along."
-112,joereyna,Joe Reyna,53,2,37,49,False,,
-113,olesho,Oleh Luchkiv,53,11,18,47,False,,
-114,yuneng-berri,yuneng-jiang,53,2,50,89,False,,
-115,Mandolaro,Minh Pham,52,9,18,296,False,,
-116,MaxwellCalkin,Maxwell Calkin,52,16,21,34,False,,"New York, NY"
-117,SohamBhattacharjee2003,Soham Bhattacharjee,52,7,30,27,False,,"Asansol, West Bengal, India"
-118,joaquinhuigomez,Joaquin Hui,52,3,21,38,True,Amazon,London
-119,jpr5,Jordan Ritter,52,138,50,6,True,"Darkridge, Inc.","Seattle, WA"
-120,tylerslaton,Tyler Slaton,52,109,50,20,False,,"Charlotte, NC"
-121,JingofXin,SunXiaoye,51,6,35,27,False,,
-122,Re-bin,Xubin Ren,51,514,49,6,False,The University of Hong Kong,
-123,Foolllll-J,Foolllll,50,2,48,38,False,,
-124,Reisenbug,Stardust,50,8,16,62,False,,
-125,VasiliyRad,Vasiliy,50,0,37,54,False,WhiskeyTaste,
-126,adivate2021,Aaryan Divate,50,0,32,307,False,,
-127,christopherholland-workday,,50,0,50,213,False,,
-128,jocelynlin-wd,Jocelyn Lin,50,1,40,196,False,,
-129,michelligabriele,,50,1,50,121,False,,
-130,milan-berri,,50,1,36,69,False,,
-131,xzq-xu,LeftX,50,11,50,15,False,,
-132,yfrigui2,Yasmine Frigui,50,1,50,156,False,,
-133,Fosowl,Martin,49,628,44,13,False,CNRS / 3iA côte d'azur ,"Nice, France"
-134,JiajunBernoulli,Jiajun,49,29,14,92,False,Bytedance,China beijing
-135,Lumysia,Livia Z.,49,9,50,17,False,Ontario Tech University,"Onatrio, Canada"
-136,wan92hen,BugKing,49,25,24,13,False,,
-137,krrish-berri-2,Krrish Dholakia,48,11,17,35,False,@BerriAI ,
-138,rickarize,Rick Steele,48,0,23,57,False,,
-139,stuxf,,48,28,8,56,True,,
-140,WenqiOfficial,Chang Lee,47,41,38,7,False,,
-141,aviu16,,47,0,17,65,True,,
-142,wanghe-fit2cloud,王贺,47,94,50,0,False,fit2cloud,"Beijing, China"
-143,HynoR,KOMATA,46,66,50,4,False,,"Toyonaka, Osaka, Japan"
-144,PicardParis,Laurent Picard,46,70,11,87,False,@GoogleCloudPlatform,Paris
-145,chengcheng84,hello_world,46,5,21,27,False,,
-146,ryan-crabbe-berri,,46,0,27,34,False,,
-147,ChenJiahaoST,James Chen,45,1,20,187,False,,
-148,EurFelux,Phantom,45,36,50,2,False,,GLOBE
-149,Mustafa974,Letong Han,45,9,11,79,False,TJ SSE,
-150,ataibarkai,Atai Barkai,45,197,49,1,False,CopilotKit.ai,
-151,j-sanaa,,45,1,20,102,False,,
-152,onlyjackfrost,Andy Yen,45,27,10,200,False,,Taiwan
-153,shaohuzhang1,,45,30,50,0,False,,
-154,xr843,Tim Ren,45,54,50,2,False,,"Fuzhou, China"
-155,Bahtya,bahtyar,44,8,50,0,False,,
-156,KagurazakaNyaa,神楽坂·喵,44,78,8,176,False,Higgs Cats,喵星
-157,andyMrtnzP,Anderson Martínez,44,13,9,90,False,Browserless.io,
-158,douenergy,Douenergy,44,29,9,208,False,,
-159,jackyzzzk,kjz,44,0,19,49,False,,
-160,dhawal1,Dhawal Upadhyay,43,3,14,86,False,,
-161,flobo3,Flo,43,4,34,8,False,,
-162,KBVsent,時壹,42,5,15,34,False,,
-163,elammertsma,Eric Lammertsma,42,3,16,36,False,,
-164,wwwy3y3,william chang(張仲威),42,205,7,128,False,@Canner,"Taipei, Taiwan"
-165,Yuang-Deng,Yuang Deng,41,1,16,60,False,Shanghai Jiao Tong University,
-166,chenhao0205,,41,0,16,109,False,,
-167,avarga1,Austin Varga,40,7,21,5,False,@Knowmi-ai ,
-168,mjashanks,Michael Shanks,40,74,5,67,False,Budibase,"Belfast, Northern Ireland"
-169,scafer,Sandro Ferreira,40,20,13,21,False,,"Lisbon, Portugal"
-170,stevessr,,39,29,12,23,False,south china normal university,guangzhou
-171,Aster-amellus,Aster,38,44,9,27,False,,Shenzhen
-172,fredalai,Freda Lai,38,11,3,100,False,@Canner,Taiwan
-173,ousugo,Asurada,38,14,3,51,False,,Shenzhen
-174,JCamyre,Joseph S Camyre,37,16,2,153,False,CHIPS Lab,UCLA
-175,PaloMiku,PaloMiku,37,26,8,29,False,,"Shandong,China"
-176,andreashimin,Shimin,37,28,2,162,False,,Home
-177,jfperusse,Jean-François Pérusse,37,2,9,64,False,,Canada
-178,johnnyeric,Johnny Eric Amancio,37,45,7,30,False,Kilo Code,"Madrid, Spain"
-179,404-Page-Found,404-Page-Found,36,1,22,13,False,,
-180,chenzhex,,36,0,15,33,False,,
-181,jisyST,,36,2,12,34,False,,
-182,ricardofiorani,Ricardo Fiorani,36,77,10,18,False,,Berlin
-183,rishi763,,36,6,7,36,False,,
-184,LeoFYH,,35,0,34,1,False,,
-185,SuperEver,,35,2,7,150,False,,
-186,benlenarts,Ben Lenarts,35,28,13,6,False,,Utrecht
-187,mmatsumoto1026,Manabu Matsumoto,35,6,3,198,False,,
-188,guoyangzhen,guoyangzhen,34,5,10,11,True,Kongsen Young,"Guangdong, China Mainland"
-189,Mansari,Mohammad Al-Ansari,33,8,4,30,False,@google,"Toronto, ON, Canada"
-190,Thelia-Lzr,Thelia,33,4,12,17,False,,Shanghai
-191,ccsang,qingyun,33,5,8,28,False,,
-192,willydouhard,Willy Douhard,33,174,5,26,False,Chainlit,San Francisco
-193,yichieh-lu,,33,0,8,53,False,,
-194,SiinXu,Siin Xu,32,16,7,17,False,,Shanghai
-195,aayushbaluni,Ayush Baluni,32,7,5,13,True,,"Bangalore, India"
-196,acebot712,Abhijoy Sarkar,32,8,4,12,True,@TheoremOne @MatchMaven @CS305-software-Engineering ,Los Angeles
-197,coolalexzb,Bo zheng,32,3,3,90,False,Rice University,"Houston, Texas"
-198,pennycoders,Alex,32,39,7,16,False,,Romania
-199,tristan-ranff,Tristan Ranff,32,4,3,39,False,,
-200,Haohao-end,Haohao,31,29,10,2,False,,Mars
+40,ssongliu,ssongliu,61,40,50,66,False,,
+41,vaayne,LiuVaayne,61,83,50,82,False,,Beijing
+42,zhengkunwang223,CityFun,61,71,50,66,False,FIT2CLOUD,Beijing
+43,zouyonghe,エイカク,61,41,50,360,False,,
+44,04cb,layla,60,48,50,32,True,,Spicewood
+45,Br1an67,Br1an,60,10,50,50,False,,China
+46,CREDO23,Thierry CH.,60,151,50,111,False,Surfsense Inc,
+47,Chukwuebuka-2003,Chukwuebuka (Gaus Octavio ),60,221,33,48,False,Nimbuss Solutions Provider,Spaceship
+48,KumarVandit,VanditKumar,60,26,50,59,False,@photon-hq ,
+49,LIghtJUNction,LIghtJUNction,60,67,50,94,False,@AstrBotDevs @MemDeco-WG ,
+50,MODSetter,Rohan Verma,60,261,50,122,False,SurfSense,"San Jose, CA, US"
+51,RC-CHN,Ruochen Pan,60,92,33,127,False,Independent Developer,
+52,RogerHYang,Roger Yang,60,44,50,104,False,,"San Francisco, CA"
+53,Sameerlite,Sameer Kankute,60,14,50,98,False,@BerriAI,
+54,adrinr,Adria Navarro,60,16,50,244,False,,
+55,anticorrelator,Dustin Ngo,60,26,50,249,False,,
+56,cephalization,Tony Powell,60,62,50,153,False,@Arize-ai,"Ann Arbor, Michigan"
+57,colegottdank,,60,19,50,58,False,,
+58,eeee0717,槑囿脑袋,60,48,46,144,False,,
+59,eshurakov,Evgeny Shurakov,60,26,50,199,False,,
+60,exynos967,Exynos,60,29,37,47,False,exynos,Hangzhou
+61,gericdong,Eric Dong,60,79,46,69,False,,
+62,hayescode,Josh Hayes,60,27,30,114,False,,
+63,jvcalderon,José Vte. Calderón,60,38,32,146,False,,
+64,kawayiYokami,Yokami,60,16,50,123,False,,
+65,kirillk,Kirill Kalishev,60,12,33,135,False,,
+66,luojiyin1987,luo jiyin,60,230,50,61,False,,Wuzhou China
+67,majiayu000,lif,60,83,50,170,False,,China BeiJing
+68,melohagan,,60,37,50,281,False,,
+69,mvanhorn,Matt Van Horn,60,882,50,68,False,,
+70,octo-patch,Octopus,60,44,50,47,False,Independent Developer,San Francisco
+71,piexian,氕氙,60,33,50,120,False,,成都
+72,tmchow,Trevin Chow,60,43,50,189,False,,"Seattle, WA"
+73,ConorWebb96,Conor Webb,59,9,42,94,False,Budibase,Derry
+74,justinsheu,Justin Sheu,59,8,27,260,False,,
+75,katiemn,Katie Nguyen,59,61,24,114,False,@ google,
+76,maxkorp,Max Korp,59,46,49,29,True,@copilotkit,"Phoenix, AZ"
+77,mikesealey,Mike Sealey,59,9,27,99,False,,
+78,veeceey,Varun Chawla,59,8,50,147,False,,
+79,deanhannigan,,58,7,48,208,False,,
+80,ehutt,Elizabeth Hutton,58,2,50,178,True,University of Southern California,"Los Angeles, CA"
+81,hztBUAA,Zhenting Huang,58,30,28,40,False,BUAA,Beijing
+82,ishaan-berri,,58,7,50,83,False,,
+83,lan-yonghui,蘭,58,11,50,39,False,,
+84,shivamrawat1,Shivam Rawat,58,2,50,87,True,Minerva University,San Francisco
+85,BenTaylorDev,Ben Taylor,57,6,25,81,False,,
+86,LikiosSedo,Sedo,57,6,50,111,False,,
+87,mikeldking,Mikyo King,57,120,50,38,False,Arize AI,San Francisco
+88,H2Shami,Hammad Shami,56,4,50,199,False,,
+89,chengyongru,chengyongru,56,26,50,35,False,,
+90,haxzie,Musthaq Ahamad,56,352,50,32,False,@composiohq,"Bengaluru, India"
+91,lambertjosh,Joshua Lambert,56,4,50,245,False,,
+92,ming1523,,56,5,28,54,False,,
+93,mme,Markus Ecker,56,136,35,29,False,,Austria
+94,tsubasakong,Frank,56,48,50,31,False,,
+95,wzh1994,wangzhihong,56,11,50,35,False,Beihang University,Beijing
+96,LingaoM,Lingao Meng,55,22,20,375,False,@xiaomi,Beijing China
+97,JoeMakuta,Josué Makuta,54,34,22,38,False,,"Dubai, UAE"
+98,alanzhang25,Alan Zhang,54,3,41,259,False,,
+99,alex-alecu,Marian Alexandru Alecu,54,3,50,241,False,KiloCode,Cluj-Napoca
+100,joaquinhuigomez,Joaquin Hui,54,3,22,40,True,Amazon,London
+101,marius-kilocode,Marius,54,3,50,144,False,,
+102,marthakelly,Martha Kelly Schumann,54,116,19,57,False,,Seattle
+103,Futureppo,Futureppo,53,32,22,34,False,,US
+104,andz-bb,Andrew Thompson,53,6,21,156,False,@budibase,belfast
+105,calexiou,Christos Alexiou,53,2,44,115,False,,
+106,ghost,Deleted user,53,12297,18,67,False,,"Nothing to see here, move along."
+107,joereyna,Joe Reyna,53,2,38,49,False,,
+108,krrish-berri-2,Krrish Dholakia,53,12,20,41,False,@BerriAI ,
+109,olesho,Oleh Luchkiv,53,11,18,47,False,,
+110,yuneng-berri,yuneng-jiang,53,2,50,96,False,,
+111,Mandolaro,Minh Pham,52,9,18,296,False,,
+112,MaxwellCalkin,Maxwell Calkin,52,16,21,34,False,,"New York, NY"
+113,SohamBhattacharjee2003,Soham Bhattacharjee,52,7,30,27,False,,"Asansol, West Bengal, India"
+114,jpr5,Jordan Ritter,52,138,50,6,True,"Darkridge, Inc.","Seattle, WA"
+115,tylerslaton,Tyler Slaton,52,109,50,20,False,,"Charlotte, NC"
+116,Bahtya,bahtyar,51,8,43,21,False,,
+117,JingofXin,SunXiaoye,51,6,35,27,False,,
+118,Re-bin,Xubin Ren,50,517,50,5,False,The University of Hong Kong,
+119,Reisenbug,Stardust,50,8,16,62,False,,
+120,VasiliyRad,Vasiliy,50,0,38,55,False,WhiskeyTaste,
+121,adivate2021,Aaryan Divate,50,0,32,307,False,,
+122,christopherholland-workday,,50,0,50,213,False,,
+123,jocelynlin-wd,Jocelyn Lin,50,1,40,196,False,,
+124,michelligabriele,,50,1,50,118,False,,
+125,milan-berri,,50,1,36,69,False,,
+126,xzq-xu,LeftX,50,11,50,15,False,,
+127,yfrigui2,Yasmine Frigui,50,1,50,156,False,,
+128,Fosowl,Martin,49,628,44,13,False,CNRS / 3iA côte d'azur ,"Nice, France"
+129,JiajunBernoulli,Jiajun,49,29,14,92,False,Bytedance,China beijing
+130,Lumysia,Livia Z.,49,9,50,17,False,Ontario Tech University,"Onatrio, Canada"
+131,wan92hen,BugKing,49,25,24,13,False,,
+132,aviu16,,48,0,18,71,True,,
+133,rickarize,Rick Steele,48,0,23,57,False,,
+134,stuxf,,48,29,8,56,True,,
+135,WenqiOfficial,Chang Lee,47,41,38,7,False,,
+136,dkindlund,Darien Kindlund,47,40,12,47,False,Fletch.ai,Virginia
+137,ryan-crabbe-berri,,47,0,28,36,False,,
+138,wanghe-fit2cloud,王贺,47,94,50,0,False,fit2cloud,"Beijing, China"
+139,HynoR,KOMATA,46,66,50,4,False,,"Toyonaka, Osaka, Japan"
+140,Mustafa974,Letong Han,46,10,11,79,False,TJ SSE,
+141,PicardParis,Laurent Picard,46,70,11,87,False,@GoogleCloudPlatform,Paris
+142,chengcheng84,hello_world,46,5,21,27,False,,
+143,mterhar,Mike Terhar,46,5,15,182,False,@honeycombio,
+144,ChenJiahaoST,James Chen,45,1,20,187,False,,
+145,EurFelux,Phantom,45,35,50,2,False,,GLOBE
+146,ataibarkai,Atai Barkai,45,197,49,1,False,CopilotKit.ai,
+147,j-sanaa,,45,1,20,102,False,,
+148,shaohuzhang1,,45,30,50,0,False,,
+149,xr843,Tim Ren,45,55,50,2,False,,"Fuzhou, China"
+150,KagurazakaNyaa,神楽坂·喵,44,78,8,176,False,Higgs Cats,喵星
+151,andyMrtnzP,Anderson Martínez,44,13,9,90,False,Browserless.io,
+152,jackyzzzk,kjz,44,0,19,49,False,,
+153,dhawal1,Dhawal Upadhyay,43,3,14,86,False,,
+154,flobo3,Flo,43,4,34,8,False,,
+155,KBVsent,時壹,42,5,15,34,False,,
+156,elammertsma,Eric Lammertsma,42,3,16,37,False,,
+157,Yuang-Deng,Yuang Deng,41,1,16,60,False,Shanghai Jiao Tong University,
+158,chenhao0205,,41,0,16,109,False,,
+159,404-Page-Found,404-Page-Found,40,1,27,17,False,,
+160,DmitriyAlergant,Dmitriy Alergant,40,3,44,5,False,,
+161,J-Byron,Josh,40,13,5,52,False,LiteLLM,
+162,johnnyeric,Johnny Eric Amancio,40,45,9,34,False,Kilo Code,"Madrid, Spain"
+163,mjashanks,Michael Shanks,40,74,5,67,False,Budibase,"Belfast, Northern Ireland"
+164,scafer,Sandro Ferreira,40,20,13,21,False,,"Lisbon, Portugal"
+165,i1hwan,i1hwan,39,13,13,19,False,Gyeongsang National University,"Jinju, South Korea"
+166,stevessr,,39,29,12,23,False,south china normal university,guangzhou
+167,Aster-amellus,Aster,38,45,9,27,False,,Shenzhen
+168,ousugo,Asurada,38,14,3,51,False,,Shenzhen
+169,JCamyre,Joseph S Camyre,37,16,2,153,False,CHIPS Lab,UCLA
+170,PaloMiku,PaloMiku,37,26,8,29,False,,"Shandong,China"
+171,jfperusse,Jean-François Pérusse,37,2,9,64,False,,Canada
+172,chenzhex,,36,0,15,33,False,,
+173,jisyST,,36,2,12,34,False,,
+174,ricardofiorani,Ricardo Fiorani,36,77,10,18,False,,Berlin
+175,rishi763,,36,6,7,36,False,,
+176,LeoFYH,,35,0,34,1,False,,
+177,SuperEver,,35,2,7,150,False,,
+178,benlenarts,Ben Lenarts,35,28,13,6,False,,Utrecht
+179,mmatsumoto1026,Manabu Matsumoto,35,6,3,198,False,,
+180,guoyangzhen,guoyangzhen,34,5,10,11,True,Kongsen Young,"Guangdong, China Mainland"
+181,Mansari,Mohammad Al-Ansari,33,8,4,30,False,@google,"Toronto, ON, Canada"
+182,Thelia-Lzr,Thelia,33,4,12,17,False,,Shanghai
+183,ccsang,qingyun,33,5,8,28,False,,
+184,willydouhard,Willy Douhard,33,174,5,26,False,Chainlit,San Francisco
+185,SiinXu,Siin Xu,32,16,7,17,False,,Shanghai
+186,aayushbaluni,Ayush Baluni,32,7,5,13,True,,"Bangalore, India"
+187,acebot712,Abhijoy Sarkar,32,8,4,12,True,@TheoremOne @MatchMaven @CS305-software-Engineering ,Los Angeles
+188,chenyahui,cyhone,32,211,2,29,False,,China
+189,coolalexzb,Bo zheng,32,3,3,90,False,Rice University,"Houston, Texas"
+190,pennycoders,Alex,32,39,7,16,False,,Romania
+191,tristan-ranff,Tristan Ranff,32,4,3,39,False,,
+192,ArvinFarrelP,ArvinFarrelP,31,13,7,14,False,Universitas Dian Nuswantoro,Indonesia
+193,Haohao-end,Haohao,31,30,10,2,False,,Mars
+194,NirDiamant,,31,5308,5,4,False,DiamantAI,
+195,NitishGourishetty,Nitish Gourishetty,31,44,9,8,False,,
+196,ink-the-squid,,31,0,15,18,False,,
+197,yau-wd,,31,0,6,67,False,,
+198,CarlosShaoting,,30,0,7,40,False,,
+199,manojnaidu619,Manoj Kumar,30,24,2,10,True,,"Bangalore,India"
+200,CompromisedKiwi,MakkaPakka,29,0,12,23,False,,Beijing
