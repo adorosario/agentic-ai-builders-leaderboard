@@ -2,53 +2,53 @@
 
 | Rank | Login | Name | Score | Followers | Merged PRs | Reviews | Hireable | Company |
 |---:|:---|:---|---:|---:|---:|---:|:---:|:---|
-| 1 | [MikeRyanDev](https://github.com/MikeRyanDev) | Mike Ryan | 68 | 721 | 50 | 48 | ✅ | LiveLoveApp |
-| 2 | [Soulter](https://github.com/Soulter) | Weilong Liao | 68 | 946 | 50 | 103 | ✅ | @astrbotdevs |
-| 3 | [dokterbob](https://github.com/dokterbob) | Mathijs de Bruin | 68 | 185 | 49 | 80 | ✅ | @synergyai-nl |
-| 4 | [jkomyno](https://github.com/jkomyno) | Alberto Schiabel | 66 | 275 | 50 | 520 | ✅ | @prisma |
-| 5 | [mxmzb](https://github.com/mxmzb) | Maxim | 66 | 99 | 36 | 76 | ✅ | N/A |
-| 6 | [0xi4o](https://github.com/0xi4o) | Ilango | 65 | 95 | 33 | 176 | ✅ | N/A |
-| 7 | [AbdulSamad94](https://github.com/AbdulSamad94) | Abdul Samad Siddiqui | 65 | 25 | 50 | 64 | ✅ | N/A |
-| 8 | [AnishSarkar22](https://github.com/AnishSarkar22) | Anish Sarkar | 65 | 29 | 50 | 128 | ✅ | SurfSense |
-| 9 | [Dakuan](https://github.com/Dakuan) | N/A | 65 | 28 | 50 | 207 | ✅ | N/A |
-| 10 | [GeorgeDong32](https://github.com/GeorgeDong32) | George·Dong | 65 | 26 | 50 | 181 | ✅ | Sun Yat-Sen University |
-| 11 | [HenryHengZJ](https://github.com/HenryHengZJ) | Henry Heng | 65 | 762 | 50 | 103 | ✅ | N/A |
-| 12 | [LIghtJUNction](https://github.com/LIghtJUNction) | LIghtJUNction | 65 | 67 | 50 | 95 | ✅ | @AstrBotDevs @MemDeco-WG  |
-| 13 | [Nancy-Chauhan](https://github.com/Nancy-Chauhan) | Nancy Chauhan  | 65 | 177 | 50 | 138 | ✅ | N/A |
+| 1 | [Soulter](https://github.com/Soulter) | Weilong Liao | 68 | 949 | 50 | 103 | ✅ | @astrbotdevs |
+| 2 | [dokterbob](https://github.com/dokterbob) | Mathijs de Bruin | 68 | 185 | 49 | 80 | ✅ | @synergyai-nl |
+| 3 | [jkomyno](https://github.com/jkomyno) | Alberto Schiabel | 66 | 275 | 50 | 537 | ✅ | @prisma |
+| 4 | [mxmzb](https://github.com/mxmzb) | Maxim | 66 | 99 | 36 | 76 | ✅ | N/A |
+| 5 | [0xi4o](https://github.com/0xi4o) | Ilango | 65 | 95 | 35 | 189 | ✅ | N/A |
+| 6 | [AbdulSamad94](https://github.com/AbdulSamad94) | Abdul Samad Siddiqui | 65 | 25 | 50 | 64 | ✅ | N/A |
+| 7 | [AnishSarkar22](https://github.com/AnishSarkar22) | Anish Sarkar | 65 | 29 | 50 | 128 | ✅ | SurfSense |
+| 8 | [Dakuan](https://github.com/Dakuan) | N/A | 65 | 28 | 50 | 207 | ✅ | N/A |
+| 9 | [GeorgeDong32](https://github.com/GeorgeDong32) | George·Dong | 65 | 26 | 50 | 181 | ✅ | Sun Yat-Sen University |
+| 10 | [HenryHengZJ](https://github.com/HenryHengZJ) | Henry Heng | 65 | 762 | 50 | 103 | ✅ | N/A |
+| 11 | [LIghtJUNction](https://github.com/LIghtJUNction) | LIghtJUNction | 65 | 68 | 50 | 95 | ✅ | @AstrBotDevs @MemDeco-WG  |
+| 12 | [Nancy-Chauhan](https://github.com/Nancy-Chauhan) | Nancy Chauhan  | 65 | 178 | 50 | 138 | ✅ | N/A |
+| 13 | [NathanTarbert](https://github.com/NathanTarbert) | Nathan 🔶 Tarbert | 65 | 211 | 41 | 39 | ✅ | @copilotkit |
 | 14 | [abhishekg999](https://github.com/abhishekg999) | Abhishek Govindarasu | 65 | 12 | 50 | 220 | ✅ | N/A |
-| 15 | [abir-taheer](https://github.com/abir-taheer) | Abir Taheer | 65 | 179 | 30 | 71 | ✅ | N/A |
+| 15 | [abir-taheer](https://github.com/abir-taheer) | Abir Taheer | 65 | 180 | 34 | 81 | ✅ | N/A |
 | 16 | [asvishnyakov](https://github.com/asvishnyakov) | Aleksandr Vishniakov | 65 | 17 | 45 | 142 | ✅ | VirtoCommerce |
 | 17 | [axiomofjoy](https://github.com/axiomofjoy) | Xander Song | 65 | 50 | 48 | 124 | ✅ | N/A |
-| 18 | [beyondkmp](https://github.com/beyondkmp) | beyondkmp | 65 | 101 | 48 | 252 | ✅ | N/A |
-| 19 | [catrielmuller](https://github.com/catrielmuller) | Catriel Müller | 65 | 55 | 50 | 152 | ✅ | N/A |
-| 20 | [giulio-leone](https://github.com/giulio-leone) | Giulio Leone | 65 | 13 | 50 | 141 | ✅ | AI Systems Architect & Solutions Consultant |
-| 21 | [kianmeng](https://github.com/kianmeng) | Ang | 65 | 146 | 48 | 71 | ✅ | N/A |
-| 22 | [stuxf](https://github.com/stuxf) | N/A | 65 | 33 | 50 | 142 | ✅ | N/A |
-| 23 | [jnMetaCode](https://github.com/jnMetaCode) | AI不止语 | 64 | 361 | 50 | 40 | ✅ | N/A |
-| 24 | [anubhav756](https://github.com/anubhav756) | Anubhav Dhawan | 63 | 7 | 50 | 209 | ✅ | @GoogleCloudPlatform @googlers @googleapis  |
-| 25 | [shssoichiro](https://github.com/shssoichiro) | Josh Holmer | 63 | 133 | 35 | 128 |  | N/A |
-| 26 | [he-yufeng](https://github.com/he-yufeng) | Yufeng He | 62 | 303 | 48 | 109 |  | Moonshot AI |
-| 27 | [kazunori279](https://github.com/kazunori279) | Kaz Sato | 62 | 474 | 31 | 101 |  | Google, Inc. |
+| 18 | [catrielmuller](https://github.com/catrielmuller) | Catriel Müller | 65 | 55 | 50 | 140 | ✅ | N/A |
+| 19 | [giulio-leone](https://github.com/giulio-leone) | Giulio Leone | 65 | 13 | 50 | 141 | ✅ | AI Systems Architect & Solutions Consultant |
+| 20 | [kianmeng](https://github.com/kianmeng) | Ang | 65 | 146 | 48 | 71 | ✅ | N/A |
+| 21 | [stuxf](https://github.com/stuxf) | N/A | 65 | 33 | 50 | 142 | ✅ | N/A |
+| 22 | [jnMetaCode](https://github.com/jnMetaCode) | AI不止语 | 64 | 366 | 50 | 40 | ✅ | N/A |
+| 23 | [anubhav756](https://github.com/anubhav756) | Anubhav Dhawan | 63 | 7 | 50 | 209 | ✅ | @GoogleCloudPlatform @googlers @googleapis  |
+| 24 | [shssoichiro](https://github.com/shssoichiro) | Josh Holmer | 63 | 133 | 35 | 129 |  | N/A |
+| 25 | [AlemTuzlak](https://github.com/AlemTuzlak) | Alem Tuzlak | 62 | 546 | 50 | 47 |  | N/A |
+| 26 | [he-yufeng](https://github.com/he-yufeng) | Yufeng He | 62 | 304 | 48 | 109 |  | Moonshot AI |
+| 27 | [kazunori279](https://github.com/kazunori279) | Kaz Sato | 62 | 474 | 33 | 101 |  | Google, Inc. |
 | 28 | [koverholt](https://github.com/koverholt) | Kristopher Overholt | 62 | 322 | 50 | 73 |  | Google |
-| 29 | [mvanhorn](https://github.com/mvanhorn) | Matt Van Horn | 62 | 1384 | 50 | 126 |  | N/A |
-| 30 | [04cb](https://github.com/04cb) | layla | 61 | 57 | 50 | 35 | ✅ | N/A |
-| 31 | [AlemTuzlak](https://github.com/AlemTuzlak) | Alem Tuzlak | 61 | 546 | 50 | 49 |  | N/A |
-| 32 | [DeJeune](https://github.com/DeJeune) | SuYao | 61 | 55 | 50 | 141 |  | Chinese Academy of Sciences University |
-| 33 | [SXP-Simon](https://github.com/SXP-Simon) | Helian Nuits | 61 | 204 | 49 | 82 |  | Nanchang University |
-| 34 | [chitalian](https://github.com/chitalian) | Justin Torre | 61 | 252 | 49 | 56 |  | Helicone  |
-| 35 | [juliettech13](https://github.com/juliettech13) | _juliettech | 61 | 46 | 50 | 35 | ✅ | @helicone, @lewagon, @aragon, @cyfrin |
-| 36 | [kangfenmao](https://github.com/kangfenmao) | 亢奋猫 | 61 | 373 | 50 | 144 |  | N/A |
-| 37 | [lxfight](https://github.com/lxfight) | lxfight | 61 | 45 | 50 | 50 |  | N/A |
-| 38 | [maxkorp](https://github.com/maxkorp) | Max Korp | 61 | 46 | 49 | 35 | ✅ | @copilotkit |
-| 39 | [renovate-bot](https://github.com/renovate-bot) | Mend Renovate | 61 | 2416 | 50 | 53 |  | @mend |
-| 40 | [ssongliu](https://github.com/ssongliu) | ssongliu | 61 | 40 | 50 | 55 |  | N/A |
-| 41 | [vaayne](https://github.com/vaayne) | LiuVaayne | 61 | 87 | 50 | 100 |  | N/A |
-| 42 | [zouyonghe](https://github.com/zouyonghe) | エイカク | 61 | 43 | 50 | 336 |  | N/A |
-| 43 | [Br1an67](https://github.com/Br1an67) | Br1an | 60 | 11 | 50 | 49 |  | N/A |
-| 44 | [CREDO23](https://github.com/CREDO23) | Thierry CH. | 60 | 153 | 50 | 116 |  | Surfsense Inc |
-| 45 | [Chukwuebuka-2003](https://github.com/Chukwuebuka-2003) | Chukwuebuka (Gaus Octavio ) | 60 | 236 | 40 | 49 |  | Nimbuss Solutions Provider |
-| 46 | [CryogenicPlanet](https://github.com/CryogenicPlanet) | Rahul Tarak | 60 | 178 | 50 | 26 | ✅ | @composiohq | prev founded @scalarhq |
-| 47 | [Githubguy132010](https://github.com/Githubguy132010) | Thomas Brugman | 60 | 13 | 31 | 132 |  | N/A |
-| 48 | [Hinotoi-agent](https://github.com/Hinotoi-agent) | Hinotobi | 60 | 10 | 50 | 50 |  | N/A |
-| 49 | [LucaPrete](https://github.com/LucaPrete) | Luca Prete | 60 | 39 | 50 | 60 |  | Google |
-| 50 | [MODSetter](https://github.com/MODSetter) | Rohan Verma | 60 | 262 | 50 | 95 |  | SurfSense |
+| 29 | [mvanhorn](https://github.com/mvanhorn) | Matt Van Horn | 62 | 1453 | 50 | 122 |  | N/A |
+| 30 | [04cb](https://github.com/04cb) | layla | 61 | 58 | 50 | 35 | ✅ | N/A |
+| 31 | [DeJeune](https://github.com/DeJeune) | SuYao | 61 | 55 | 50 | 141 |  | Chinese Academy of Sciences University |
+| 32 | [SXP-Simon](https://github.com/SXP-Simon) | Helian Nuits | 61 | 204 | 49 | 82 |  | Nanchang University |
+| 33 | [chitalian](https://github.com/chitalian) | Justin Torre | 61 | 251 | 49 | 56 |  | Helicone  |
+| 34 | [juliettech13](https://github.com/juliettech13) | _juliettech | 61 | 46 | 50 | 35 | ✅ | @helicone, @lewagon, @aragon, @cyfrin |
+| 35 | [kangfenmao](https://github.com/kangfenmao) | 亢奋猫 | 61 | 373 | 50 | 164 |  | N/A |
+| 36 | [lxfight](https://github.com/lxfight) | lxfight | 61 | 45 | 50 | 50 |  | N/A |
+| 37 | [maxkorp](https://github.com/maxkorp) | Max Korp | 61 | 46 | 49 | 35 | ✅ | @copilotkit |
+| 38 | [ssongliu](https://github.com/ssongliu) | ssongliu | 61 | 40 | 50 | 50 |  | N/A |
+| 39 | [vaayne](https://github.com/vaayne) | LiuVaayne | 61 | 87 | 50 | 67 |  | N/A |
+| 40 | [zouyonghe](https://github.com/zouyonghe) | エイカク | 61 | 44 | 50 | 336 |  | N/A |
+| 41 | [Br1an67](https://github.com/Br1an67) | Br1an | 60 | 11 | 50 | 49 |  | N/A |
+| 42 | [CREDO23](https://github.com/CREDO23) | Thierry CH. | 60 | 153 | 50 | 116 |  | Surfsense Inc |
+| 43 | [Chukwuebuka-2003](https://github.com/Chukwuebuka-2003) | Chukwuebuka (Gaus Octavio ) | 60 | 237 | 40 | 49 |  | Nimbuss Solutions Provider |
+| 44 | [CryogenicPlanet](https://github.com/CryogenicPlanet) | Rahul Tarak | 60 | 178 | 50 | 26 | ✅ | @composiohq | prev founded @scalarhq |
+| 45 | [Hinotoi-agent](https://github.com/Hinotoi-agent) | Hinotobi | 60 | 10 | 50 | 50 |  | N/A |
+| 46 | [LucaPrete](https://github.com/LucaPrete) | Luca Prete | 60 | 39 | 50 | 60 |  | Google |
+| 47 | [MODSetter](https://github.com/MODSetter) | Rohan Verma | 60 | 264 | 50 | 95 |  | SurfSense |
+| 48 | [RC-CHN](https://github.com/RC-CHN) | Ruochen Pan | 60 | 98 | 38 | 132 |  | Independent Developer |
+| 49 | [RogerHYang](https://github.com/RogerHYang) | Roger Yang | 60 | 46 | 49 | 145 |  | N/A |
+| 50 | [adrinr](https://github.com/adrinr) | Adria Navarro | 60 | 16 | 50 | 192 |  | N/A |
